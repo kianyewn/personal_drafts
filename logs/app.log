@@ -1,0 +1,113 @@
+2025-08-17 00:51:23 | INFO     | test_logging:setup_logging:52 - Logging configured
+2025-08-17 00:53:36 | INFO     | test_logging:setup_logging:52 - Logging configured
+2025-08-17 00:54:33 | DEBUG    | decorators:wrapper:34 - Calling test_func
+2025-08-17 00:55:01 | DEBUG    | decorators:wrapper:34 - Calling test_func
+2025-08-17 00:55:01 | INFO     | utils:test_func:10 - test_info
+2025-08-17 00:55:01 | ERROR    | utils:test_func:11 - test_error
+2025-08-17 00:55:01 | WARNING  | utils:test_func:12 - test_warning
+2025-08-17 00:55:01 | DEBUG    | utils:test_func:13 - test_debug
+2025-08-17 00:55:01 | CRITICAL | utils:test_func:14 - test_critical
+2025-08-17 00:55:02 | INFO     | decorators:timeit_wrapper:17 - Function test_func() {} Took 1.0114 seconds
+2025-08-17 00:55:02 | DEBUG    | decorators:wrapper:49 - Completed test_func
+2025-08-17 00:55:17 | DEBUG    | decorators:wrapper:34 - Calling test_func
+2025-08-17 00:55:17 | INFO     | utils:test_func:10 - test_info
+2025-08-17 00:55:17 | ERROR    | utils:test_func:11 - test_error
+2025-08-17 00:55:17 | WARNING  | utils:test_func:12 - test_warning
+2025-08-17 00:55:17 | DEBUG    | utils:test_func:13 - test_debug
+2025-08-17 00:55:17 | CRITICAL | utils:test_func:14 - test_critical
+2025-08-17 00:55:18 | DEBUG    | decorators:wrapper:49 - Completed test_func
+2025-08-17 00:55:18 | INFO     | decorators:timeit_wrapper:17 - Function test_func() {} Took 1.0057 seconds
+2025-08-17 00:55:19 | DEBUG    | decorators:wrapper:34 - Calling test_func
+2025-08-17 00:55:19 | INFO     | utils:test_func:10 - test_info
+2025-08-17 00:55:19 | ERROR    | utils:test_func:11 - test_error
+2025-08-17 00:55:19 | WARNING  | utils:test_func:12 - test_warning
+2025-08-17 00:55:19 | DEBUG    | utils:test_func:13 - test_debug
+2025-08-17 00:55:19 | CRITICAL | utils:test_func:14 - test_critical
+2025-08-17 00:55:20 | DEBUG    | decorators:wrapper:49 - Completed test_func
+2025-08-17 00:55:20 | INFO     | decorators:timeit_wrapper:17 - Function test_func() {} Took 1.0114 seconds
+2025-08-17 00:55:36 | DEBUG    | decorators:wrapper:34 - Calling test_func
+2025-08-17 00:55:36 | INFO     | utils:test_func:10 - test_info
+2025-08-17 00:55:36 | ERROR    | utils:test_func:11 - test_error
+2025-08-17 00:55:36 | WARNING  | utils:test_func:12 - test_warning
+2025-08-17 00:55:36 | DEBUG    | utils:test_func:13 - test_debug
+2025-08-17 00:55:36 | CRITICAL | utils:test_func:14 - test_critical
+2025-08-17 00:55:37 | DEBUG    | decorators:wrapper:49 - Completed test_func
+2025-08-17 00:55:37 | INFO     | decorators:timeit_wrapper:17 - Function test_func() {} Took 1.0130 seconds
+2025-08-17 00:55:37 | DEBUG    | decorators:wrapper:34 - Calling test_func
+2025-08-17 00:55:37 | INFO     | utils:test_func:10 - test_info
+2025-08-17 00:55:37 | ERROR    | utils:test_func:11 - test_error
+2025-08-17 00:55:37 | WARNING  | utils:test_func:12 - test_warning
+2025-08-17 00:55:37 | DEBUG    | utils:test_func:13 - test_debug
+2025-08-17 00:55:37 | CRITICAL | utils:test_func:14 - test_critical
+2025-08-17 00:55:38 | DEBUG    | decorators:wrapper:49 - Completed test_func
+2025-08-17 00:55:38 | INFO     | decorators:timeit_wrapper:17 - Function test_func() {} Took 1.0079 seconds
+2025-08-17 00:56:30 | INFO     | test_logging:setup_logging:52 - Logging configured
+2025-08-17 00:56:32 | DEBUG    | decorators:wrapper:34 - Calling test_func
+2025-08-17 00:56:32 | INFO     | utils:test_func:10 - test_info
+2025-08-17 00:56:32 | ERROR    | utils:test_func:11 - test_error
+2025-08-17 00:56:32 | WARNING  | utils:test_func:12 - test_warning
+2025-08-17 00:56:32 | DEBUG    | utils:test_func:13 - test_debug
+2025-08-17 00:56:32 | CRITICAL | utils:test_func:14 - test_critical
+2025-08-17 00:56:33 | DEBUG    | decorators:wrapper:49 - Completed test_func
+2025-08-17 00:56:33 | INFO     | decorators:timeit_wrapper:17 - Function test_func() {} Took 1.0065 seconds
+2025-08-17 00:56:47 | DEBUG    | decorators:wrapper:34 - Calling test_func
+2025-08-17 00:56:47 | INFO     | utils:test_func:10 - test_info
+2025-08-17 00:56:47 | ERROR    | utils:test_func:11 - test_error
+2025-08-17 00:56:47 | WARNING  | utils:test_func:12 - test_warning
+2025-08-17 00:56:47 | DEBUG    | utils:test_func:13 - test_debug
+2025-08-17 00:56:47 | CRITICAL | utils:test_func:14 - test_critical
+2025-08-17 00:56:48 | DEBUG    | decorators:wrapper:49 - Completed test_func
+2025-08-17 00:56:48 | INFO     | decorators:timeit_wrapper:17 - Function test_func() {} Took 1.0111 seconds
+2025-08-17 00:57:22 | INFO     | test_logging:setup_logging:52 - Logging configured
+2025-08-17 00:57:23 | DEBUG    | decorators:wrapper:34 - Calling test_func
+2025-08-17 00:57:23 | INFO     | utils:test_func:10 - test_info
+2025-08-17 00:57:23 | ERROR    | utils:test_func:11 - test_error
+2025-08-17 00:57:23 | WARNING  | utils:test_func:12 - test_warning
+2025-08-17 00:57:23 | DEBUG    | utils:test_func:13 - test_debug
+2025-08-17 00:57:23 | CRITICAL | utils:test_func:14 - test_critical
+2025-08-17 00:57:24 | DEBUG    | decorators:wrapper:49 - Completed test_func
+2025-08-17 00:57:24 | INFO     | decorators:timeit_wrapper:17 - Function test_func() {} Took 1.0225 seconds
+2025-08-17 01:02:32 | INFO     | test_logging:setup_logging:52 - Logging configured
+2025-08-17 01:02:32 | DEBUG    | decorators:timeit_wrapper:13 - Calling test_func
+2025-08-17 01:02:32 | INFO     | utils:test_func:10 - test_info
+2025-08-17 01:02:32 | ERROR    | utils:test_func:11 - test_error
+2025-08-17 01:02:32 | WARNING  | utils:test_func:12 - test_warning
+2025-08-17 01:02:32 | DEBUG    | utils:test_func:13 - test_debug
+2025-08-17 01:02:32 | CRITICAL | utils:test_func:14 - test_critical
+2025-08-17 01:02:33 | DEBUG    | decorators:wrapper:49 - Completed test_func
+2025-08-17 01:02:33 | INFO     | decorators:timeit_wrapper:17 - Function test_func() {} Took 1.0132 seconds
+2025-08-17 01:03:04 | INFO     | test_logging:setup_logging:52 - Logging configured
+2025-08-17 01:03:04 | DEBUG    | __main__:<module>:3 - Calling test_func
+2025-08-17 01:03:04 | INFO     | utils:test_func:10 - test_info
+2025-08-17 01:03:04 | ERROR    | utils:test_func:11 - test_error
+2025-08-17 01:03:04 | WARNING  | utils:test_func:12 - test_warning
+2025-08-17 01:03:04 | DEBUG    | utils:test_func:13 - test_debug
+2025-08-17 01:03:04 | CRITICAL | utils:test_func:14 - test_critical
+2025-08-17 01:03:05 | DEBUG    | decorators:wrapper:49 - Completed test_func
+2025-08-17 01:05:49 | INFO     | test_logging:setup_logging:52 - Logging configured
+2025-08-17 01:05:49 | DEBUG    | __main__:<module>:3 - Calling test_func
+2025-08-17 01:05:49 | INFO     | utils:test_func:10 - test_info
+2025-08-17 01:05:49 | ERROR    | utils:test_func:11 - test_error
+2025-08-17 01:05:49 | WARNING  | utils:test_func:12 - test_warning
+2025-08-17 01:05:49 | DEBUG    | utils:test_func:13 - test_debug
+2025-08-17 01:05:49 | CRITICAL | utils:test_func:14 - test_critical
+2025-08-17 01:05:50 | DEBUG    | decorators:wrapper:49 - Completed test_func
+2025-08-17 01:08:45 | DEBUG    | __main__:<module>:3 - Calling test_func
+2025-08-17 01:08:45 | INFO     | datasets.utils2:test_func:10 - test_info
+2025-08-17 01:08:45 | ERROR    | datasets.utils2:test_func:11 - test_error
+2025-08-17 01:08:45 | WARNING  | datasets.utils2:test_func:12 - test_warning
+2025-08-17 01:08:45 | DEBUG    | datasets.utils2:test_func:13 - test_debug
+2025-08-17 01:08:45 | CRITICAL | datasets.utils2:test_func:14 - test_critical
+2025-08-17 01:08:46 | DEBUG    | decorators:wrapper:49 - Completed test_func
+2025-08-17 01:09:40 | INFO     | __main__:<module>:2 - helo
+2025-08-17 01:09:40 | INFO     | test_logging:setup_logging:60 - Logging configured
+2025-08-17 01:09:40 | DEBUG    | __main__:<module>:3 - Calling test_func
+2025-08-17 01:09:40 | INFO     | datasets.utils2:test_func:10 - test_info
+2025-08-17 01:09:40 | ERROR    | datasets.utils2:test_func:11 - test_error
+2025-08-17 01:09:40 | WARNING  | datasets.utils2:test_func:12 - test_warning
+2025-08-17 01:09:40 | DEBUG    | datasets.utils2:test_func:13 - test_debug
+2025-08-17 01:09:40 | CRITICAL | datasets.utils2:test_func:14 - test_critical
+2025-08-17 01:09:41 | DEBUG    | decorators:wrapper:49 - Completed test_func
+2025-08-17 01:16:35 | INFO     | test_logging:setup_logging:60 - Logging configured
+2025-08-17 01:17:37 | INFO     | test_logging:setup_logging:60 - Logging configured
+2025-08-17 01:27:22 | INFO     | test_logging:setup_logging:60 - Logging configured
